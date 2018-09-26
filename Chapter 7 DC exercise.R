@@ -9,8 +9,8 @@ f. group_by() & summarize ()
 
 
 ### Problem 7.2
-1. D (Best
-2. IF (Best)
+1. J
+2. I1
       
       
 ### Problem 7.3
@@ -40,8 +40,14 @@ e. select(name, count)
       
 ### Problem 7.6
 1. 80,101
-2. 
-3.
+2. ABDUL M RAHAMAN \THE ROCK\        
+   ALICIA K. BENNETT                  
+   BETSY HODGES                          
+   BILL KAHN                             
+   BOB \AGAIN\ CARNEY JR 
+3. First = 834
+   Second = 10598
+   Third = 19210
 4.
 5.
       
